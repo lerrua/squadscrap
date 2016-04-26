@@ -1,3 +1,7 @@
+ACCOUNTS2 = [
+    'alanalbuquerqueoficial',
+    'alisonalvarez',
+    'amauritito']
 
 ACCOUNTS = [
     'alanalbuquerquehair',
@@ -34,5 +38,27 @@ ACCOUNTS = [
     'soninhalessa',
     'vi_makeup',
     'waltermleal',
-    'wlilluminadas'
+    'wlilluminadas',
+
+    'amandakarine',
+    'andersonguedesw',
+    'bonni.hair',
+    'bonni.makeup',
+    'dannyari',
+    'douglaslevinsk',
+    'dudulb_',
+    'filipemarcelw',
+    'jaquelinesevero',
+    'jo_carvalhow',
+    'juliorosarioofficial',
+    'leandroguedesw',
+    'leonardoguedesw',
+    'lu_barreto07',
+    'mmduartte',
+    'nata_cunha',
+    'robert_alves19',
+    'sabrinacalixtow',
+    'salaowcrystal',
+    'unhasdayanka',
+    'willzinhoo'
 ]
