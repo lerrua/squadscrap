@@ -3,10 +3,13 @@
 ### Tools
 
 * Scrapy
-* Celery
-* SQLAlchemy
+* Jupyter
 
 
 ### Usage
 
-scrapy crawl iconosquare -o items.csv
+```
+scrapy crawl growth -o csv/items.csv
+
+scrapy crawl engagement -o csv/items_engagement.csv
+```
